@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+// Add new parameters
 class App extends Component {
   render() {
     return (
